@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "1",
+    "title": "General Knowledge",
+    "questions": [
+      {
+        "_id": "q1",
+        "text": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correctAnswer": "Paris"
+      },
+      {
+        "_id": "q2",
+        "text": "Who wrote 'Hamlet'?",
+        "options": ["Charles Dickens", "J.K. Rowling", "William Shakespeare", "Mark Twain"],
+        "correctAnswer": "William Shakespeare"
+      }
+    ]
+  }
+]
