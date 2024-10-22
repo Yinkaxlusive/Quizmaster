@@ -1,4 +1,4 @@
-..// Assuming you're using a React component
+// Assuming you're using a React component
 const login = async (email, password) => {
   try {
     const response = await fetch('http://localhost:5000/api/auth/login', {
