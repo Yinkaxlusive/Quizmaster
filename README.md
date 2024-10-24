@@ -64,8 +64,3 @@ It follows the **MVC pattern**:
 ### Prerequisites:
 - **Node.js** (version 14 or higher)
 - **MongoDB** (local or cloud instance)
-
-### 1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/quizmaster.git
-cd quizmaster
